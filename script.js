@@ -1,3 +1,4 @@
+console.log("Hello world")
 import * as THREE from "three";
 import { DeviceOrientationControls } from "three/examples/jsm/controls/DeviceOrientationControls";
 let w;
